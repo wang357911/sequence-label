@@ -1,2 +1,4 @@
 data
 baseline/checkpoint
+baseline/vocab
+baseline/__pycache__
