@@ -2,6 +2,7 @@ from model import *
 from data_processer import *
 import tensorflow as tf
 from tqdm import tqdm
+import os
 
 import numpy
 
