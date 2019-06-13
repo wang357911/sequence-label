@@ -2,3 +2,4 @@ data
 baseline/checkpoint
 baseline/vocab
 baseline/__pycache__
+*.txt
